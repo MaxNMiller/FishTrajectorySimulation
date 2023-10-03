@@ -13,7 +13,7 @@ A computational model designed to simulate the movement of a pelagic fish within
 
 ## Noise Generation
 
-The program includes noise generation functions that are used to simulate the stochastic nature of biomass distribution.
+The program includes noise generation functions that are used to simulate the random nature of biomass distribution.
 
 - **`bilerp` Function:** This function performs two-dimensional linear interpolation (bilinear interpolation) between four input values. It is used to interpolate values between grid points in the noise generation process.
 
