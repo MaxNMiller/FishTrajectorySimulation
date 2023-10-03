@@ -9,7 +9,4 @@ A computational model designed to simulate the movement of a pelagic fish within
 
 - **Spatial Environment:** The simulation environment is represented as a two-dimensional grid, with each grid cell containing information about the biomass concentration at that location. This allows for the dynamic modeling of an ecosystem where biomass is not evenly distributed.
 
-## Contributions
-
-Developers and researchers interested in ecological modeling and simulations are encouraged to contribute by improving the code, adding new features, or conducting experiments using the simulation.
 
