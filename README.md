@@ -7,7 +7,8 @@ A computational model designed to simulate the movement of a pelagic fish within
 
 - **Gradient-Based Movement:** The program incorporates a gradient-based movement mechanism for the simulated fish. This means that the fish adjusts its trajectory and velocity based on the local gradient of biomass. Essentially, if the fish detects a higher biomass concentration in a certain direction, it is more likely to swim in that direction.
 
-- **Spatial Environment:** The simulation environment is represented as a two-dimensional grid, with each grid cell containing information about the biomass concentration at that location. This allows for the dynamic modeling of an ecosystem where biomass is not evenly distributed.
+- **Spatial Environment:** The simulation environment is represented as a two-dimensional grid, with each grid cell containing information about the biomass concentration at that location.
+  
 - **Stochastic Biomass Distribution:** (See Below)
 
 
